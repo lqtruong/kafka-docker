@@ -5,5 +5,5 @@ Go to folder `kafka`. Use command
 
 `docker-compose -f kafka.yml up` to start kafka at Docker
 
-Prequisites
-- Docker community Version 17.12.0-ce-mac46 (21698)
+# Prerequisites
+- Docker community Version >= 17.12.0-ce-mac46 (21698)
